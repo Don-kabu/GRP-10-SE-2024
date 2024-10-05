@@ -2,7 +2,7 @@
 
 Ubuntu local web  server configuration (APACHE2)  
 
-<h3> la configuration du server web <b style=" color : red ">apache</b> sur ubuntu   </h3>
+<h3> la configuration du server web <b style=" color : red; ">apache</b> sur ubuntu   </h3>
 
 
 <p> le travail se base sur des explications simples et claires conçu de maniere purement pedagogique de telle sorte que meme un non-domaine se retrouve facilement avec des illustrations de chaque etape de la configuration .</p>
