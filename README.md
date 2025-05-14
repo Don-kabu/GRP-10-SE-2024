@@ -28,4 +28,4 @@ Ubuntu local web  server configuration (APACHE2)
 
 
 le travail a ete fait en majeur partie par l'etudiant <a href="wa.me/243892649177"> KABU DIANZAMBI DON  </a>  kabudon19@gmail.com et son groupe de 9 avec lui 
-ou pour plus de contact </img link="IMG_6848.jpeg">
+ou pour plus de contact </img src="IMG_6848.jpeg">
