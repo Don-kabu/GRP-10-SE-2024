@@ -7,7 +7,7 @@ Ubuntu local web  server configuration (APACHE2)
 
 <p> le travail se base sur des explications simples et claires conçu de maniere purement pedagogique de telle sorte que meme un non-domaine se retrouve facilement avec des illustrations de chaque etape de la configuration .</p>
 
-<h2 style = "color : red ; "> le plan du travail </h2>
+# le plan du travail
 <ol>
   <li> introduction </li>
   <li> prerequis 
@@ -28,4 +28,4 @@ Ubuntu local web  server configuration (APACHE2)
 
 
 le travail a ete fait en majeur partie par l'etudiant <a href="wa.me/243892649177"> KABU DIANZAMBI DON  </a>  kabudon19@gmail.com et son groupe de 9 avec lui 
-ou pour plus de contact </img src="IMG_6848.jpeg">
+ou pour plus de contact <img src="IMG_6848.jpeg">
